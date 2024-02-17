@@ -1,0 +1,5 @@
+# Ignore folder named "test"
+test/
+
+# Ignore folder named "train"
+train/
